@@ -1,0 +1,26 @@
+# API keys
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Model cache
+.cache/
+backend/cache/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Results
+backend/evaluation_results/
+backend/*.json
+
+# Temp
+*.tmp
+*.log
+*.egg-info/
