@@ -24,3 +24,6 @@ backend/*.json
 *.tmp
 *.log
 *.egg-info/
+
+# Lock files
+frontend/package-lock.json
